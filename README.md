@@ -49,7 +49,7 @@ W swoim portfolio umieściłem umiejętności, które zdobyłem podczas samodzie
 - Testowanie oprogramowania
 
 #### Dokumentacja testowa
--Projekt własny: Testowanie formularza rejestracyjnego i panelu logowania strony banku Credit Agricole
-[SCENARIUSZ TESTOWY CA]https://docs.google.com/spreadsheets/d/1c6k4lxxZ0-miW5v8x44QDSxRM7ZCn_PZKhSfiaGV6Zo/edit?usp=sharing
+Projekt własny: Testowanie formularza rejestracyjnego i panelu logowania strony banku Credit Agricole
+- [SCENARIUSZ TESTOWY CA](https://docs.google.com/spreadsheets/d/1c6k4lxxZ0-miW5v8x44QDSxRM7ZCn_PZKhSfiaGV6Zo/edit?usp=sharing)
 
 
