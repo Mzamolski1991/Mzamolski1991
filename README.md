@@ -8,14 +8,14 @@ W swoim portfolio umieściłem umiejętności, które zdobyłem podczas samodzie
 
 2. Narzędzia
 
-Testlink
-Jira
-Git
-Github
-qTest
-Microsoft Office
-PicPick
-ShareX
+- Testlink
+- Jira
+- Git
+- Github
+- qTest
+- Microsoft Office
+- PicPick
+- ShareX
 
 2. Umiejętności techniczne
 
