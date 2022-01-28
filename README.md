@@ -1,4 +1,4 @@
-1. Sekcja “O mnie” 
+#### Sekcja “O mnie” 
 
 Nazywam się Marcin Zamolski. Jestem magistrem turystyki i rekreacji.
 Od dziecka interesowałem się technologią informacyjną, a także grami komputerowym.
@@ -6,7 +6,7 @@ Jako aspirujący tester moim celem jest poszerzenie wiedzy, a także rozwój tec
 W swoim portfolio umieściłem umiejętności, które zdobyłem podczas samodzielnej nauki.
 
 
-2. Narzędzia
+#### Narzędzia
 
 - Testlink
 - Jira
@@ -17,14 +17,14 @@ W swoim portfolio umieściłem umiejętności, które zdobyłem podczas samodzie
 - PicPick
 - ShareX
 
-2. Umiejętności techniczne
+#### Umiejętności techniczne
 
 - Tworzenie przypadków testowych
 - Zgłaszanie błędów
 - Podstawy MySQL-a
 - Python - w trakcie
 
-3. Kursy Online 
+#### Kursy Online 
 - Podstawy manualnego testowania oprogramowania – Udemy
 (Teoria testowania, tworzenie scenariuszy i przypadków testowych, qTest – narzędzie do tworzenia przypadków testowych, Jira)
 - Praktyczny kurs testowania oprogramowania – Udemy
@@ -33,7 +33,7 @@ W swoim portfolio umieściłem umiejętności, które zdobyłem podczas samodzie
 (Podstawy CRUD, funkcje tekstowe i agregujące, logika, relacje)
 
 
-4. Techniczne książki
+#### Techniczne książki
 
 - ISTQB® Certyfikowany Tester - Poziom Podstawowy 2018 - Syllabus
 - Zawód tester - Smilgin Radosław
@@ -41,15 +41,15 @@ W swoim portfolio umieściłem umiejętności, które zdobyłem podczas samodzie
 - Tester oprogramowania - Przygotowanie do egzaminu z testowania oprogramowania - Karolina Zmitrowicz - w trakcie
 - Testowanie i jakość oprogramowania - Roman Adam - w trakcie
 
-5. Grupy testerskie
+#### Grupy testerskie
 
 - Tester oprogramowania - wsparcie na starcie
 - Junior IT, dobry start, początkujący programista, tester i nie tylko
 - ISTQB - egzaminy, pytania, testy
 - Testowanie oprogramowania
 
-6. Dokumentacja testowa
-Projekt własny: Testowanie formularza rejestracyjnego i panelu logowania strony banku Credit Agricole
+#### Dokumentacja testowa
+-Projekt własny: Testowanie formularza rejestracyjnego i panelu logowania strony banku Credit Agricole
 https://docs.google.com/spreadsheets/d/1c6k4lxxZ0-miW5v8x44QDSxRM7ZCn_PZKhSfiaGV6Zo/edit?usp=sharing
 
 
