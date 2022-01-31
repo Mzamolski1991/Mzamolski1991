@@ -28,7 +28,7 @@ W swoim portfolio umieściłem umiejętności, które zdobyłem podczas samodzie
 - Podstawy manualnego testowania oprogramowania – Udemy
 (Teoria testowania, tworzenie scenariuszy i przypadków testowych, qTest – narzędzie do tworzenia przypadków testowych, Jira)
 - Praktyczny kurs testowania oprogramowania – Udemy
-(Teoria testowania, programy wspomagające testerów [PicPick, Sharex, Testlink], testowanie API, System kontroli wersji GIT, SQL)
+(Teoria testowania, programy wspomagające testerów [PicPick, Sharex, Testlink], System kontroli wersji GIT, SQL)
 - MySQL tworzenie i zarządzanie bazami danych – Udemy
 (Podstawy CRUD, funkcje tekstowe i agregujące, logika, relacje)
 
