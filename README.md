@@ -50,11 +50,13 @@ W swoim portfolio umieściłem umiejętności, które zdobyłem podczas samodzie
 
 #### **Dokumentacja testowa**
 *PL
+
 1.Projekt własny: Testowanie formularza rejestracyjnego i panelu logowania strony banku Credit Agricole
 - [SCENARIUSZ TESTOWY CA](https://docs.google.com/spreadsheets/d/1aqd9mHavQa3Fg7fMaC5NmuwCYC7NGTsh3UYPga4dFsw/edit?usp=sharing)
 - [Raport z błędów](https://docs.google.com/document/d/1khyTRguTmiqH4B3XBdSgkOrWrFZXJcX7Gjzoc0s3i3M/edit?usp=sharing)
 
 *ENG
+
 1.
 - Own project: [Testing purchases on the Tutorials Ninja site](https://docs.google.com/spreadsheets/d/1Rj7UL1QK0f0T13mus23Jx09Qw5n1Xl8LJLQHS_WXYnA/edit?usp=sharing)
 2.
