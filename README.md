@@ -1,21 +1,9 @@
 ## Sekcja “O mnie” 
 
-Nazywam się Marcin Zamolski. Jestem magistrem turystyki i rekreacji.
-Od dziecka interesowałem się technologią informacyjną, a także grami komputerowym.
+Nazywam się Marcin Zamolski. Jestem magistrem .
+Od dziecka interesowałem się światem IT, a także grami komputerowymi w szczególności gatunkiem MMO RPG. 
 Jako aspirujący tester moim celem jest poszerzenie wiedzy, a także rozwój technicznych umiejętności związanych z testowaniem oprogramowania.
 W swoim portfolio umieściłem umiejętności, które zdobyłem podczas samodzielnej nauki.
-
-
-## **Narzędzia**
-
-- Testlink
-- Jira
-- Git
-- Github
-- qTest
-- Microsoft Office
-- PicPick
-- ShareX
 
 ## **Umiejętności techniczne**
 
@@ -23,6 +11,18 @@ W swoim portfolio umieściłem umiejętności, które zdobyłem podczas samodzie
 - Zgłaszanie błędów
 - Podstawy MySQL-a
 - Python - w trakcie
+
+## **Narzędzia**
+
+- Microsoft Office
+- Testlink
+- Jira
+- Git
+- Github
+- qTest
+- PicPick
+- ShareX
+
 
 ## **Kursy Online**
 - Podstawy manualnego testowania oprogramowania – Udemy
@@ -33,7 +33,7 @@ W swoim portfolio umieściłem umiejętności, które zdobyłem podczas samodzie
 (Podstawy CRUD, funkcje tekstowe i agregujące, logika, relacje)
 
 
-## **Techniczne książki**
+## **Książki techniczne**
 
 - ISTQB® Certyfikowany Tester - Poziom Podstawowy 2018 - Syllabus
 - Zawód tester - Smilgin Radosław
