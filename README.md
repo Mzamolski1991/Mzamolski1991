@@ -6,7 +6,7 @@ Jako aspirujący tester moim celem jest poszerzenie wiedzy, a także rozwój tec
 W swoim portfolio umieściłem umiejętności, które zdobyłem podczas samodzielnej nauki.
 
 
-#### **Narzędzia**
+## **Narzędzia**
 
 - Testlink
 - Jira
@@ -17,14 +17,14 @@ W swoim portfolio umieściłem umiejętności, które zdobyłem podczas samodzie
 - PicPick
 - ShareX
 
-#### **Umiejętności techniczne**
+## **Umiejętności techniczne**
 
 - Tworzenie przypadków testowych
 - Zgłaszanie błędów
 - Podstawy MySQL-a
 - Python - w trakcie
 
-#### **Kursy Online**
+## **Kursy Online**
 - Podstawy manualnego testowania oprogramowania – Udemy
 (Teoria testowania, tworzenie scenariuszy i przypadków testowych, qTest – narzędzie do tworzenia przypadków testowych, Jira)
 - Praktyczny kurs testowania oprogramowania – Udemy
@@ -33,7 +33,7 @@ W swoim portfolio umieściłem umiejętności, które zdobyłem podczas samodzie
 (Podstawy CRUD, funkcje tekstowe i agregujące, logika, relacje)
 
 
-#### **Techniczne książki**
+## **Techniczne książki**
 
 - ISTQB® Certyfikowany Tester - Poziom Podstawowy 2018 - Syllabus
 - Zawód tester - Smilgin Radosław
@@ -41,14 +41,14 @@ W swoim portfolio umieściłem umiejętności, które zdobyłem podczas samodzie
 - Tester oprogramowania - Przygotowanie do egzaminu z testowania oprogramowania - Karolina Zmitrowicz - w trakcie
 - Testowanie i jakość oprogramowania - Roman Adam - w trakcie
 
-#### **Grupy testerskie**
+## **Grupy testerskie**
 
 - Tester oprogramowania - wsparcie na starcie
 - Junior IT, dobry start, początkujący programista, tester i nie tylko
 - ISTQB - egzaminy, pytania, testy
 - Testowanie oprogramowania
 
-#### **Dokumentacja testowa**
+## **Dokumentacja testowa**
 *PL
 
 1.Projekt własny: Testowanie formularza rejestracyjnego i panelu logowania strony banku Credit Agricole
