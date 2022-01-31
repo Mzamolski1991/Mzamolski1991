@@ -1,4 +1,4 @@
-#### **Sekcja “O mnie”** 
+## Sekcja “O mnie” 
 
 Nazywam się Marcin Zamolski. Jestem magistrem turystyki i rekreacji.
 Od dziecka interesowałem się technologią informacyjną, a także grami komputerowym.
