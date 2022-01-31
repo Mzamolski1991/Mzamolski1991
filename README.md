@@ -1,6 +1,6 @@
 ## Sekcja “O mnie” 
 
-Nazywam się Marcin Zamolski. Jestem magistrem .
+Nazywam się Marcin Zamolski. Jestem magistrem Turystyki i Rekreacji.
 Od dziecka interesowałem się światem IT, a także grami komputerowymi w szczególności gatunkiem MMO RPG. 
 Jako aspirujący tester moim celem jest poszerzenie wiedzy, a także rozwój technicznych umiejętności związanych z testowaniem oprogramowania.
 W swoim portfolio umieściłem umiejętności, które zdobyłem podczas samodzielnej nauki.
